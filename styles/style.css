@@ -1,4 +1,42 @@
 html {
-  font-size: 20px;
+  /*font-size: 10px;*/
   font-family: 'Roboto Slab', serif;
+  background-color: #AD8E9E;
+}
+
+body{
+  width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+h1 {
+  margin: 0;
+  /*padding: 20px 0;*/
+  font-size: 65x;
+  text-align: center;
+}
+
+h2 {
+  font-size: 25x;
+  text-align: center;
+}
+
+#subtitle {
+  margin: 0;
+}
+
+p{
+  margin: 20px auto;
+  padding: 0 20px 20px 20px;
+  font-size: 16px;
+  line-height: 2;
+  /*letter-spacing: 1px;*/
+  /*text-align: center;*/
+}
+
+
+img[src] {
+  display: block;
+  margin: 0 auto;
 }
